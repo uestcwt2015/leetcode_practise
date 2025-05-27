@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/uestcwt2015/leetcode_practise/tree/master/0283-move-zeroes) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/uestcwt2015/leetcode_practise/tree/master/0075-sort-colors) |
+| [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
 ## Math
 |  |
 | ------- |
