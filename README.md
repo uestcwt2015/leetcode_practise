@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/uestcwt2015/leetcode_practise/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/uestcwt2015/leetcode_practise/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/uestcwt2015/leetcode_practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
 ## Math
 |  |
