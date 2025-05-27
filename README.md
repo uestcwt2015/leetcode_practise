@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/uestcwt2015/leetcode_practise/tree/master/0283-move-zeroes) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
