@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
 | [1580-shuffle-the-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/uestcwt2015/leetcode_practise/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/uestcwt2015/leetcode_practise/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
