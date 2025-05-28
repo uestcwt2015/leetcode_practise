@@ -46,12 +46,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
