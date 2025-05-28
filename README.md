@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/uestcwt2015/leetcode_practise/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
