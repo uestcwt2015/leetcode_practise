@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/uestcwt2015/leetcode_practise/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2551-apply-operations-to-an-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/uestcwt2015/leetcode_practise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
