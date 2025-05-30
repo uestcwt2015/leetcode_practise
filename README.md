@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/uestcwt2015/leetcode_practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/uestcwt2015/leetcode_practise/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/uestcwt2015/leetcode_practise/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/uestcwt2015/leetcode_practise/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/uestcwt2015/leetcode_practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/uestcwt2015/leetcode_practise/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0328-odd-even-linked-list) |
