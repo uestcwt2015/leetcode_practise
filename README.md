@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/uestcwt2015/leetcode_practise/tree/master/1028-interval-list-intersections) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/uestcwt2015/leetcode_practise/tree/master/1306-minimum-absolute-difference) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/uestcwt2015/leetcode_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1580-shuffle-the-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/uestcwt2015/leetcode_practise/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/uestcwt2015/leetcode_practise/tree/master/2058-concatenation-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/uestcwt2015/leetcode_practise/tree/master/0838-design-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/uestcwt2015/leetcode_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/uestcwt2015/leetcode_practise/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/uestcwt2015/leetcode_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
